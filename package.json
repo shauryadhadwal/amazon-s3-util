@@ -1,0 +1,21 @@
+{
+  "name": "s3bucket",
+  "version": "1.0.0",
+  "description": "Script for uploading media to s3 bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "script",
+    "s3"
+  ],
+  "author": "shaurya dhadwal",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.514.0",
+    "dotenv": "^8.1.0",
+    "uuid": "^3.3.3"
+  }
+}
