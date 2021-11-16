@@ -14,7 +14,7 @@
   "author": "shaurya dhadwal",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.514.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.1.0",
     "uuid": "^3.3.3"
   }
